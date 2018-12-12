@@ -1,7 +1,7 @@
 # Debug
 
 ## Description
-A minetest mod that allows in-game debugging/monitoring of the minetest logfile (default: /home/minetest/.minetest/debug.txt).
+A minetest mod that allows in-game debugging/monitoring of the minetest logfile.
 
 ## Features
 Adds in-game commands to view or search logfiles in chat and to shutdown the server for players with ban priv:
